@@ -21,11 +21,17 @@ python Main.py
 # Output
 Downloaded files are saved in the format:
 /path/to/output/
+
 │
+
 ├── AliceSpringsMulga_L6.nc
+
 ├── AliceSpringsMulga_L6_Daily.nc
+
 ├── Warra_L6.nc
+
 ├── Warra_L6_Daily.nc
+
 ...
 
 # Fallback Naming Logic
